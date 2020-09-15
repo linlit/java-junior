@@ -1,0 +1,33 @@
+primitive: 1
+primitive: 0
+primitive: -1
+reference: java.lang.Object@4c550889
+primitive: 1
+primitive: 0
+primitive: -1
+char: a
+char: b
+primitive: true
+primitive: false
+string: test string 1
+string: other str
+string: str 1
+primitive: 127
+primitive: 10
+string: str 2
+primitive: 0
+string: str 1
+primitive: 3
+string: str 2
+primitive: 0
+string: str 1
+string: str 2 (x2)
+primitive: 0
+string: str 2
+string: str 3 (x3)
+string: str 1
+primitive: 2147483647
+primitive: 2147483647
+primitive: 7
+string: str 2
+primitive: 0
